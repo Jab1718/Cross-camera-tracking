@@ -40,7 +40,7 @@ CrossCam_ReID/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourname/cross-camera-tracking.git
+git clone https://github.com/Jab1718/cross-camera-tracking.git
 cd cross-camera-tracking
 ```
 
