@@ -28,7 +28,6 @@ CrossCam_ReID/
 │   ├── brightness.py       # Dark frame detection
 │   └── main.py             # Pipeline controller
 ├── requirements.txt
-├── Dockerfile
 └── README.md
 ```
 
