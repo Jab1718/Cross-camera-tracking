@@ -1,4 +1,4 @@
-# Cross-Camera Tracking & Re-Identification (HUMAN)
+# Cross-Camera Tracking & Re-Identification (HUMAN ONLY)
 
 A real-time multi-camera person tracking system that detects, tracks, and re-identifies individuals across different camera feeds using appearance and pose-based features.
 
