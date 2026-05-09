@@ -21,12 +21,19 @@ CrossCam_ReID/
 │   ├── checkpoints/
 │   │   └── osnet_x1_0_imagenet.pth
 │   └── yolov8n-pose.pt
-├── src/
-│   ├── detector.py         # YOLOv8 + ByteTrack
-│   ├── features_extract.py # OSNet embeddings + pose ratios
-│   ├── matcher.py          # Gallery management + matching logic
-│   ├── brightness.py       # Dark frame detection
-│   └── main.py             # Pipeline controller
+├── live_tracking_src/ #for live tracking
+│   ├── __innit__.py
+│   ├── detector.py         
+│   ├── features_extract.py 
+│   ├── matcher.py       
+│   ├── brightness.py    
+│   └── main.py            
+├── tracking on video/ #for track by using video
+│   ├── detector.py       
+│   ├── features_extract.py 
+│   ├── matcher.py         
+│   ├── brightness.py       
+│   └── main.py            
 ├── requirements.txt
 └── README.md
 ```
